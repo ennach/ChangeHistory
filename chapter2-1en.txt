@@ -1,0 +1,20 @@
+　I arrange the rice and chicken on a plate and place it in the microwave.
+　Incidentally, this microwave has been modified even more than the other electronics, to the point where its original form has been lost. In exchange, the main function has been cracked, and now you can't use it normally. Also, other functions have been added.
+　It's not of any use, so I've never tried using the other functions, though.
+"This much would be about two minutes."
+　I bring up the command line and input the command. The condition is default, while the timer is set to 120 seconds. Once the command is put in, the microwave starts up.
+　It's a roundabout method, like using the mail to send something to someone next door.
+"Can't you do anything about this?"
+"You can change the script however you want. I didn't put any restrictions on it."
+　She yawns, and I hear the sound of a can opening. I turn around to see Misa drinking down a can of Mr Pepper.
+　Soda as soon as you wake up...
+　And that's not what I meant by "do something".
+　Anyway...
+　It's a single line command. Much more annoying than just pressing a few buttons. Once entered, the command is separated by spaces, conditions are sought out, and the process is determined and retried before being implemented.
+　The program is not a black box. It follows clear logical processes.
+　That's why, unless there's a very specific bug, there's no chance of a typo causing an unknown function to activate. Meaning that in fact, if that were to happen, it would definitely, and I mean definitely, be a part of the program.
+　If there's a program embedded, you just have to debug it, bit by bit. Do that, and you'll understand what happened and why, and in which part of the program.
+　A scientist would never leave any stone unturned. They have a certain perseverance to them. That's what I believe logic - what science - is.
+　But enough about that.
+　The timer ends with a ping.
+　At exactly 120 seconds, the microwave finishes its job and stops. Opening the door, a puff of steam escapes. The smell of fried chicken enters my nose.
